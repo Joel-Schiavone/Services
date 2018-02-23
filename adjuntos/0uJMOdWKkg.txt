@@ -1,0 +1,20 @@
+Tabla presupuestos:
+Comision distribuidor
+Lista llena
+Fecha Información
+No. Epic
+No. Balance
+Nota de Pedido
+
+Tabla de Obras:
+Camaras
+Exhibidoras Arg
+Exhibidoras Eur
+Evaporadores
+Condensadores
+Frío Std
+Frío Esp
+Materiales de Obra
+Mano de Obra
+Ingenieria
+Flete

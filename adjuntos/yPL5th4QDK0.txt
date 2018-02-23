@@ -1,0 +1,12 @@
+Clave PPPoE Telecom 4650482
+
+Usuario: argentina-aptasaarnetbizcomar#1-7nzis09v@arnet-rosario-apd
+Clave: 1-7nzis09v
+
+
+Clave PPPoE Telecom 4642112
+
+Usuario: 250800@arnet-rosario-gfm
+Clave: b879922f
+
+Clave Admin Modem: CalVxePV1!
